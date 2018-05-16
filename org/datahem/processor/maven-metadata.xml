@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>org.datahem.</groupId>
+  <groupId>org.datahem</groupId>
   <artifactId>processor</artifactId>
   <versioning>
-    <release>0.4</release>
+    <release>0.5</release>
     <versions>
-      <version>0.4</version>
+      <version>0.5</version>
     </versions>
-    <lastUpdated>20180516102720</lastUpdated>
+    <lastUpdated>20180516133444</lastUpdated>
   </versioning>
 </metadata>
